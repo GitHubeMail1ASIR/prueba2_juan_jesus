@@ -46,10 +46,10 @@ También se pueden crear [links a otros archivos](./extra.md) dentro del mismo r
 
 Como era de esperar, también podemos incrustar imágenes. Para ello, se usa la misma sintáxis que para los links, pero con un signo de exclamación al inicio:
 
-![Dilbert](https://www.corporatecomplianceinsights.com/wp-content/uploads/2010/11/dilbert-2.gif)
+![Dilbert](https://assets.amuniversal.com/a8db0ae06cba01301d46001dd8b71c47)
 
 ```
-![Dilbert](https://www.corporatecomplianceinsights.com/wp-content/uploads/2010/11/dilbert-2.gif)
+![Dilbert](https://assets.amuniversal.com/a8db0ae06cba01301d46001dd8b71c47)
 ```
 
 Para finalizar esta introducción a Markdown, es importante recordar que también se pueden crear tablas:
