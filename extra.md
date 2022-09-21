@@ -1,0 +1,1 @@
+Bienvenido al archivo dummy creado con el único propósito de ser linkeado desde el archivo README.md. Este archivo no tiene ningún contenido relevante, es solo un archivo de texto plano que se ha creado para que se pueda ver cómo se hace un link a un archivo dentro del mismo repositorio.
